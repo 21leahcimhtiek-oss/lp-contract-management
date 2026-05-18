@@ -31,3 +31,9 @@ Copy `.env.example` to `.env` and configure:
 
 ## License
 See LICENSE file for details.
+
+## Aurora Ecosystem Positioning
+This project is positioned as part of the Aurora ecosystem and is ready for Aurora-aligned workflows and automation.
+
+### No-Key-First Operation
+This repository supports a no-key-first setup for local evaluation and onboarding, with optional credentials only for advanced integrations.
