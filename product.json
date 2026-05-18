@@ -2,13 +2,20 @@
   "id": "contract-management",
   "name": "Contract Management",
   "tagline": "AI-powered legal solution",
-  "description": "AI-powered contract-management application built for Aurora Market. Modern, responsive design with SaaS monetization.",
+  "description": "AI-powered contract-management application built for Aurora Rayes ecosystem. Modern, responsive design with SaaS monetization.",
   "category": "legal",
-  "tags": ["ai", "legal"],
+  "tags": [
+    "ai",
+    "legal"
+  ],
   "url": "https://auroramarket.org/contract-management",
   "demo": "https://21leahcimhtiek-oss.github.io/contract-management",
   "repo": "https://github.com/21leahcimhtiek-oss/contract-management",
-  "stack": ["HTML", "CSS", "JavaScript"],
+  "stack": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
   "status": "mvp",
   "version": "1.0.0",
   "author": "Aurora Rayes LLC",
